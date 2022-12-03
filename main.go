@@ -1,32 +1,34 @@
 package main
 
 import (
+	"bytes"
 	"fmt"
-	"io/ioutil"
-	"os"
-	"strings"
+	"log"
+	"os/exec"
 )
 
+const ShellToUse = "bash"
+
+func Shellout(command string) (string, string, error) {
+	var stdout bytes.Buffer
+	var stderr bytes.Buffer
+	cmd := exec.Command(ShellToUse, "-c", command)
+	cmd.Stdout = &stdout
+	cmd.Stderr = &stderr
+	err := cmd.Run()
+	return stdout.String(), stderr.String(), err
+}
+
 func main() {
-	name := "Variable"
-	name = "Value is changed!"
-	fmt.Println("Hello", "Dhaval", name)
+	fmt.Println("Execute shell commands")
+	fmt.Println("*****")
 
-	dir, err := os.Getwd()
+	out, errout, err := Shellout("git stats")
 	if err != nil {
-		fmt.Println("Error while getting directory")
+		log.Printf("error: %v\n", err)
 	}
-
-	fmt.Println(dir)
-
-	files, err := ioutil.ReadDir(dir)
-	if err != nil {
-		fmt.Println("Error while fetching files")
-	}
-
-	for index, file := range files {
-		fileParts := strings.Split(file.Name(), ".")
-		fileExt := fileParts[1]
-		fmt.Println(index, file.Name(), file.Size(), file.IsDir(), fileExt)
-	}
+	fmt.Println("--- stdout ---")
+	fmt.Println(out)
+	fmt.Println("--- stderr ---")
+	fmt.Println(errout)
 }
