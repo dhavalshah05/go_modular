@@ -1,34 +1,33 @@
 package main
 
 import (
-	"bytes"
+	"bufio"
 	"fmt"
-	"log"
-	"os/exec"
+	"os"
+	"strconv"
+	"strings"
 )
 
-const ShellToUse = "bash"
+func main() {
+	name := getStringFromUser("What is your name?")
+	age, err := getIntFromUser("What is your age?")
+	if err != nil {
+		fmt.Println("Please enter valid age!!!")
+		return
+	}
 
-func Shellout(command string) (string, string, error) {
-	var stdout bytes.Buffer
-	var stderr bytes.Buffer
-	cmd := exec.Command(ShellToUse, "-c", command)
-	cmd.Stdout = &stdout
-	cmd.Stderr = &stderr
-	err := cmd.Run()
-	return stdout.String(), stderr.String(), err
+	fmt.Println(name, age)
 }
 
-func main() {
-	fmt.Println("Execute shell commands")
-	fmt.Println("*****")
+func getIntFromUser(title string) (vaule int, err error) {
+	stringVal := getStringFromUser(title)
+	result, err := strconv.Atoi(stringVal)
+	return result, err
+}
 
-	out, errout, err := Shellout("git stats")
-	if err != nil {
-		log.Printf("error: %v\n", err)
-	}
-	fmt.Println("--- stdout ---")
-	fmt.Println(out)
-	fmt.Println("--- stderr ---")
-	fmt.Println(errout)
+func getStringFromUser(title string) string {
+	fmt.Println(title, ":", " ")
+	reader := bufio.NewReader(os.Stdin)
+	result, _ := reader.ReadString('\n')
+	return strings.TrimSpace(result)
 }
