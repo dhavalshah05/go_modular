@@ -1,0 +1,4286 @@
+[
+  {
+    "Number": "517",
+    "Name": "Adithya TV",
+    "Language": "Tamil",
+    "Genre": "Comedy",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "537",
+    "Name": "Nambikkai",
+    "Language": "Tamil",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "538",
+    "Name": "Velukkudi Discourses",
+    "Language": "Tamil",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "630",
+    "Name": "Madha TV",
+    "Language": "Tamil",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "510",
+    "Name": "Star Vijay",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "501",
+    "Name": "Captain tv",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "504",
+    "Name": "Kalaignar TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "507",
+    "Name": "Makkal TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "515",
+    "Name": "Vendhar TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "503",
+    "Name": "DD5 Podhigai",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "514",
+    "Name": "Vasanth TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "508",
+    "Name": "Polimer TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1069",
+    "Name": "Colors Tamil HD",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1087",
+    "Name": "Puthu Yugam",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1093",
+    "Name": "Raj TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "511",
+    "Name": "Sun Life",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "512",
+    "Name": "Sun TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "513",
+    "Name": "Sun TV HD",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "502",
+    "Name": "Chutti TV",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "516",
+    "Name": "Zee Tamil",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "519",
+    "Name": "DD Podhigai",
+    "Language": "Tamil",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1057",
+    "Name": "Travel XP Tamil",
+    "Language": "Tamil",
+    "Genre": "lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1092",
+    "Name": "Raj Digital Plus",
+    "Language": "Tamil",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "506",
+    "Name": "KTV HD",
+    "Language": "Tamil",
+    "Genre": "Movies",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "505",
+    "Name": "KTV",
+    "Language": "Tamil",
+    "Genre": "Movies",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "518",
+    "Name": "Zee Thirai",
+    "Language": "Tamil",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "534",
+    "Name": "Sahana Music",
+    "Language": "Tamil",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1039",
+    "Name": "Tunes 6",
+    "Language": "Tamil",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1094",
+    "Name": "Raj Musix",
+    "Language": "Tamil",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "535",
+    "Name": "Sun Music",
+    "Language": "Tamil",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "536",
+    "Name": "Sun Music HD",
+    "Language": "Tamil",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "520",
+    "Name": "Captain News",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "521",
+    "Name": "Kalaignar Seithigal",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "523",
+    "Name": "Malai Murasu",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "522",
+    "Name": "Madhimugam TV",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "528",
+    "Name": "Puthiya Thalaimurai",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "527",
+    "Name": "Polimer News",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "532",
+    "Name": "Thanthi TV",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "526",
+    "Name": "News7 Tamil",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "530",
+    "Name": "Sathiyam TV",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "524",
+    "Name": "News J",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1095",
+    "Name": "Raj News 24x7",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "525",
+    "Name": "News18 Tamil Nadu",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "531",
+    "Name": "Sun News",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "531",
+    "Name": "Sun News",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "529",
+    "Name": "Putiya Thalamurai",
+    "Language": "Tamil",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1033",
+    "Name": "Jio Football Tamil HD",
+    "Language": "Tamil",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "325",
+    "Name": "CNBC TV18",
+    "Language": "English",
+    "Genre": "Business",
+    "App": "JioTV"
+  },
+  {
+    "Number": "326",
+    "Name": "CNBC Tv18 Prime HD",
+    "Language": "English",
+    "Genre": "Business",
+    "App": "JioTV"
+  },
+  {
+    "Number": "994",
+    "Name": "NDTV Profit",
+    "Language": "English",
+    "Genre": "Business",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1060",
+    "Name": "ET Now",
+    "Language": "English",
+    "Genre": "Business News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "384",
+    "Name": "Swayam Prabha 01",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "398",
+    "Name": "Swayam Prabha 16",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "372",
+    "Name": "PM e Vidya 02",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "397",
+    "Name": "Swayam Prabha 15",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "399",
+    "Name": "Swayam Prabha 17",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "401",
+    "Name": "Swayam Prabha 21",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "377",
+    "Name": "PM e Vidya 07",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "402",
+    "Name": "Swayam Prabha 22",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "360",
+    "Name": "Birla Brainiacs",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "385",
+    "Name": "Swayam Prabha 02",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "380",
+    "Name": "PM e Vidya 10",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "387",
+    "Name": "Swayam Prabha 04",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "392",
+    "Name": "Swayam Prabha 09",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "395",
+    "Name": "Swayam Prabha 12",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "400",
+    "Name": "Swayam Prabha 20",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "368",
+    "Name": "IMS Schools Grade 1 - 8",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "374",
+    "Name": "PM e Vidya 04",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "391",
+    "Name": "Swayam Prabha 08",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "376",
+    "Name": "PM e Vidya 06",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "381",
+    "Name": "PM e Vidya 11",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "375",
+    "Name": "PM e Vidya 05",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "389",
+    "Name": "Swayam Prabha 06",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "388",
+    "Name": "Swayam Prabha 05",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "393",
+    "Name": "Swayam Prabha 10",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "379",
+    "Name": "PM e Vidya 09",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "394",
+    "Name": "Swayam Prabha 11",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "386",
+    "Name": "Swayam Prabha 03",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "373",
+    "Name": "PM e Vidya 03",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "371",
+    "Name": "PM e Vidya 01",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "390",
+    "Name": "Swayam Prabha 07",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "378",
+    "Name": "PM e Vidya 08",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "396",
+    "Name": "Swayam Prabha 14",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "382",
+    "Name": "PM e Vidya 12",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "412",
+    "Name": "AAS Vidyalaya",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "420",
+    "Name": "AAS Vidyalaya State Boards",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1016",
+    "Name": "Aakash EduTV JEE",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1019",
+    "Name": "Aakash EduTV NEET",
+    "Language": "English",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "303",
+    "Name": "Colors Infinity HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "304",
+    "Name": "Comedy Central HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "305",
+    "Name": "HITS HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "306",
+    "Name": "Insight 4K",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "307",
+    "Name": "Museum TV 4K",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "406",
+    "Name": "Jio Exclusive HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "896",
+    "Name": "The Q",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1038",
+    "Name": "E!",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1088",
+    "Name": "The Q",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "308",
+    "Name": "Zee CafÃ© HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "301",
+    "Name": "\u0026flix",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "302",
+    "Name": "\u0026Prive HD",
+    "Language": "English",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "328",
+    "Name": "History TV18 HD",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "329",
+    "Name": "Insight HD",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "330",
+    "Name": "InWild HD",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "332",
+    "Name": "Smithsonian HD",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "331",
+    "Name": "Love Nature 4K",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "327",
+    "Name": "BBC Earth",
+    "Language": "English",
+    "Genre": "Infotainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "358",
+    "Name": "Nick HD+",
+    "Language": "English",
+    "Genre": "Kids",
+    "App": "JioTV"
+  },
+  {
+    "Number": "359",
+    "Name": "ZooMoo HD",
+    "Language": "English",
+    "Genre": "Kids",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1023",
+    "Name": "Dreamworks",
+    "Language": "English",
+    "Genre": "Kids",
+    "App": "JioTV"
+  },
+  {
+    "Number": "333",
+    "Name": "Travel XP HD",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "337",
+    "Name": "Sadhguru Television HD",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "335",
+    "Name": "FTV HD",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "334",
+    "Name": "FTV 4K",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "336",
+    "Name": "MY ZEN 4K",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "415",
+    "Name": "LUXE TV HD",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "995",
+    "Name": "NDTV GOOD TiMES",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1085",
+    "Name": "MY ZEN HD",
+    "Language": "English",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "309",
+    "Name": "Sony PIX HD",
+    "Language": "English",
+    "Genre": "Movies",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "999",
+    "Name": "Mezzo Live HD",
+    "Language": "English",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "357",
+    "Name": "Sounds of ZEE5 - EDM",
+    "Language": "English",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "356",
+    "Name": "Non-stop EDM",
+    "Language": "English",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "310",
+    "Name": "AL Jazeera",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "311",
+    "Name": "Channel News Asia International",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "316",
+    "Name": "France 24",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "322",
+    "Name": "Republic TV",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "321",
+    "Name": "News X",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "313",
+    "Name": "dw",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "108",
+    "Name": "DD India",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "317",
+    "Name": "India Ahead",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "406",
+    "Name": "Hornbill TV",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "318",
+    "Name": "India Today",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "991",
+    "Name": "NDTV 24x7",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "998",
+    "Name": "BBC World News",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1012",
+    "Name": "NL TV",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1018",
+    "Name": "NHK World Japan",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1062",
+    "Name": "Times NOW",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1063",
+    "Name": "Times Now World",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1065",
+    "Name": "Mirror Now",
+    "Language": "English",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "312",
+    "Name": "CNN NEWS 18",
+    "Language": "English",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "324",
+    "Name": "WION",
+    "Language": "English",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "323",
+    "Name": "TIME8",
+    "Language": "English",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "319",
+    "Name": "NE News",
+    "Language": "English",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "354",
+    "Name": "Star Sports Select HD1",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "352",
+    "Name": "Star Sports 1",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "355",
+    "Name": "Star Sports Select HD2",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "353",
+    "Name": "Star Sports 2",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "345",
+    "Name": "Jio Football HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "633",
+    "Name": "Jio Football 4 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "340",
+    "Name": "Jio Cricket 2 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "342",
+    "Name": "Jio Football 1 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "339",
+    "Name": "Jio Cricket 1 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "343",
+    "Name": "Jio Football 2 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1029",
+    "Name": "Jio Cricket 3 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "344",
+    "Name": "Jio Football 3 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "341",
+    "Name": "JioGames HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "416",
+    "Name": "Jio Sports HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1002",
+    "Name": "Jio Football 5 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1003",
+    "Name": "Jio Football 6 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "417",
+    "Name": "Jio Football 7 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "418",
+    "Name": "Jio Football 8 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1024",
+    "Name": "Jio Cricket English HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1045",
+    "Name": "Jio Sports 1 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1046",
+    "Name": "Jio Sports 2 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1500",
+    "Name": "Blackcaps vs South Africa - 1st Test",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Primevideo"
+  },
+  {
+    "Number": "1501",
+    "Name": "New Zealand vs South Africa - 2nd Test",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "Primevideo"
+  },
+  {
+    "Number": "349",
+    "Name": "Sony TEN 2 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "346",
+    "Name": "Sony SIX HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "347",
+    "Name": "Sony Six SD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "348",
+    "Name": "Sony TEN 1 HD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "351",
+    "Name": "Sony TEN 3 SD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "350",
+    "Name": "Sony TEN 2 SD",
+    "Language": "English",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "562",
+    "Name": "Surya Comedy",
+    "Language": "Malayalam",
+    "Genre": "Comedy",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "579",
+    "Name": "Shalom",
+    "Language": "Malayalam",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1086",
+    "Name": "Namasthe TV",
+    "Language": "Malayalam",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "580",
+    "Name": "Kite Victers",
+    "Language": "Malayalam",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "553",
+    "Name": "Asianet Plus",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "552",
+    "Name": "Asianet",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "551",
+    "Name": "Amrita TV",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "558",
+    "Name": "Mazhavil Manorama HD",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "557",
+    "Name": "Mazhavil Manorama",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "556",
+    "Name": "Kairali TV",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "555",
+    "Name": "Flower TV",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "559",
+    "Name": "Surya Movies",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "561",
+    "Name": "Surya TV HD",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "560",
+    "Name": "Surya TV",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "554",
+    "Name": "DD Malayalam",
+    "Language": "Malayalam",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "577",
+    "Name": "Kochu TV",
+    "Language": "Malayalam",
+    "Genre": "Kids",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "578",
+    "Name": "Kaumudy TV",
+    "Language": "Malayalam",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "563",
+    "Name": "Zee Keralam",
+    "Language": "Malayalam",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "574",
+    "Name": "Kappa TV",
+    "Language": "Malayalam",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "575",
+    "Name": "Raj Musix Malayalam",
+    "Language": "Malayalam",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "576",
+    "Name": "Surya Music",
+    "Language": "Malayalam",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "570",
+    "Name": "Mathrubhumi News",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "567",
+    "Name": "Jeevan TV",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "569",
+    "Name": "Manorama News",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "566",
+    "Name": "Janam TV",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "568",
+    "Name": "Kairali News",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "572",
+    "Name": "Raj News Malayalam",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "565",
+    "Name": "Jaihind tv",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1040",
+    "Name": "Asianet News",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "915",
+    "Name": "Twenty Four News",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "571",
+    "Name": "News18 Kerala",
+    "Language": "Malayalam",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "1034",
+    "Name": "Jio Football Malayalam HD",
+    "Language": "Malayalam",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "247",
+    "Name": "StarsTell",
+    "Language": "Hindi",
+    "Genre": "Astrology",
+    "App": "JioTV"
+  },
+  {
+    "Number": "187",
+    "Name": "CNBC Awaaz",
+    "Language": "Hindi",
+    "Genre": "Business",
+    "App": "JioTV"
+  },
+  {
+    "Number": "188",
+    "Name": "Zee Business",
+    "Language": "Hindi",
+    "Genre": "Business",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1061",
+    "Name": "ET Now Swadesh",
+    "Language": "Hindi",
+    "Genre": "Business News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "897",
+    "Name": "Nimbark TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "407",
+    "Name": "Sai Leela",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "899",
+    "Name": "Prati Shirdi Saibaba",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1044",
+    "Name": "Jivan TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "219",
+    "Name": "Aastha Bhajan",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "224",
+    "Name": "Disha tv",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "220",
+    "Name": "Arihant TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "229",
+    "Name": "Ishwar TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "230",
+    "Name": "Jinvani TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "239",
+    "Name": "Santvani",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "241",
+    "Name": "Satsang TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "237",
+    "Name": "Sanskar",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "246",
+    "Name": "Vedic TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "218",
+    "Name": "Aastha",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "235",
+    "Name": "Peace of Mind",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "233",
+    "Name": "mh1 Shraddha",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "234",
+    "Name": "Paras tv",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "242",
+    "Name": "Shubh TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "236",
+    "Name": "Sadhna",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "226",
+    "Name": "Hare krsna",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "227",
+    "Name": "Hare Krsna Music",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "240",
+    "Name": "Sarv Dharam Sangam",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "245",
+    "Name": "Subharti",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "243",
+    "Name": "Soham TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "244",
+    "Name": "SRMD HD",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "222",
+    "Name": "Bhaktisagar 2",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "228",
+    "Name": "Hare Krsna Pravachan",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "223",
+    "Name": "Chardham Darshan",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "232",
+    "Name": "Manav Dharam",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1017",
+    "Name": "Awakening",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1042",
+    "Name": "Kripa TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1090",
+    "Name": "Sanskriti 24x7",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "238",
+    "Name": "Sanskar TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "Zee5"
+  },
+  {
+    "Number": "231",
+    "Name": "Krishna Vani",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "Zee5"
+  },
+  {
+    "Number": "225",
+    "Name": "Divya TV",
+    "Language": "Hindi",
+    "Genre": "Devotional",
+    "App": "Zee5"
+  },
+  {
+    "Number": "254",
+    "Name": "Utkarsh Middle",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "248",
+    "Name": "Gyan Brikshya",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "253",
+    "Name": "Utkarsh Secondary",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "250",
+    "Name": "India Science",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "251",
+    "Name": "India Science",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "255",
+    "Name": "Utkarsh Higher",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "252",
+    "Name": "Utkarsh Primary",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "249",
+    "Name": "Gyanvani 1",
+    "Language": "Hindi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "118",
+    "Name": "Star Bharat",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "119",
+    "Name": "Star Plus",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "120",
+    "Name": "Star Utsav",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "110",
+    "Name": "DD National",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "109",
+    "Name": "DD Madhya Pradesh",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "112",
+    "Name": "DD Rajasthan (Jaipur)",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "106",
+    "Name": "Colors HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "107",
+    "Name": "DD Bihar",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1072",
+    "Name": "Raj Pariwar",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1089",
+    "Name": "The Q Kahaniyan",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "116",
+    "Name": "Sony SAB HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "117",
+    "Name": "Sony SET HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "115",
+    "Name": "Sony PAL",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "113",
+    "Name": "DD Uttar Pradesh",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "101",
+    "Name": "\u0026Pictures",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "121",
+    "Name": "Zee Anmol",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "105",
+    "Name": "Big Magic",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "103",
+    "Name": "\u0026TV HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "123",
+    "Name": "Zee TV HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "104",
+    "Name": "\u0026xplorHD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "102",
+    "Name": "\u0026Pictures HD",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "122",
+    "Name": "Zee TV",
+    "Language": "Hindi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "891",
+    "Name": "Naaptol",
+    "Language": "Hindi",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "190",
+    "Name": "Jio Events HD",
+    "Language": "Hindi",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "191",
+    "Name": "DD bharati",
+    "Language": "Hindi",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "192",
+    "Name": "DD Kisan",
+    "Language": "Hindi",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "409",
+    "Name": "History TV18 HD Hindi",
+    "Language": "Hindi",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "215",
+    "Name": "Mandir Shri Govinddevji-Jaipur",
+    "Language": "Hindi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "997",
+    "Name": "Shri Amarnathji Shrine Board",
+    "Language": "Hindi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1073",
+    "Name": "Nick Junior",
+    "Language": "Hindi",
+    "Genre": "Kids",
+    "App": "JioTV"
+  },
+  {
+    "Number": "210",
+    "Name": "Sony YAY SD",
+    "Language": "Hindi",
+    "Genre": "Kids",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "211",
+    "Name": "ZEE5 Kids",
+    "Language": "Hindi",
+    "Genre": "Kids",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1056",
+    "Name": "Travel XP HD Hindi",
+    "Language": "Hindi",
+    "Genre": "Lifestyle",
+    "App": "JioTV"
+  },
+  {
+    "Number": "126",
+    "Name": "Star Gold",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "260",
+    "Name": "Colors Cineplex Bollywood",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "127",
+    "Name": "Enterr 10",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "128",
+    "Name": "Maha Movies",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "129",
+    "Name": "B4U Movies",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "124",
+    "Name": "Sony WAH",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "125",
+    "Name": "Sony MAX HD",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "130",
+    "Name": "Zee Cinema HD",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "131",
+    "Name": "Zee Bollywood",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "132",
+    "Name": "Zee Anmol Cinema",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "133",
+    "Name": "Zee Action",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "134",
+    "Name": "Zee Classic",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "135",
+    "Name": "Zee Cinema",
+    "Language": "Hindi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "197",
+    "Name": "9X Jalwa",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "198",
+    "Name": "9XM",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "199",
+    "Name": "E24",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "200",
+    "Name": "B4U Music",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "201",
+    "Name": "Mastiii",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "202",
+    "Name": "MTV HD Plus",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "203",
+    "Name": "MTV Beats HD",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "204",
+    "Name": "Music India",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1066",
+    "Name": "ZOOM",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "205",
+    "Name": "Zing",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "208",
+    "Name": "Sounds of ZEE5 - Originals",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "206",
+    "Name": "Boogle Bollywood",
+    "Language": "Hindi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "690",
+    "Name": "IND 24",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "700",
+    "Name": "News 1 India",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "628",
+    "Name": "Anaadi TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "629",
+    "Name": "Janta TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "632",
+    "Name": "DNN",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "137",
+    "Name": "Aaj Tak",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "177",
+    "Name": "Good News Today",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "408",
+    "Name": "Taaza TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1014",
+    "Name": "News11 Bharat",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1043",
+    "Name": "Sansad TV Rajya Sabha",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "138",
+    "Name": "ABP News India",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "152",
+    "Name": "India TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "143",
+    "Name": "Sansad TV HD",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "142",
+    "Name": "DD News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "139",
+    "Name": "APN News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "145",
+    "Name": "Hindi Khabar",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "140",
+    "Name": "Bansal News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "148",
+    "Name": "India News Haryana",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "151",
+    "Name": "India News UP",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "158",
+    "Name": "Sansad TV SD",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "146",
+    "Name": "IBC24",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "167",
+    "Name": "News18 India",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "161",
+    "Name": "News 24",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "155",
+    "Name": "Kashish News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "150",
+    "Name": "India News Rajasthan",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "153",
+    "Name": "India Voice",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "159",
+    "Name": "Mh One News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "154",
+    "Name": "INH 24x7",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "162",
+    "Name": "News India 24x7",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "147",
+    "Name": "India news",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "163",
+    "Name": "News Nation",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "176",
+    "Name": "Sudarshan",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "149",
+    "Name": "India News MP",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "165",
+    "Name": "News State UK UP",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "175",
+    "Name": "Sadhna News Plus",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "178",
+    "Name": "Total TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "173",
+    "Name": "Prime News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "136",
+    "Name": "9Bharath Samachar",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "156",
+    "Name": "Khabar Fast",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "160",
+    "Name": "Network 10",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "141",
+    "Name": "Bharat Samachar",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "890",
+    "Name": "First India News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "992",
+    "Name": "NDTV India",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "419",
+    "Name": "BBC News Hindi",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1013",
+    "Name": "STV Haryana News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1051",
+    "Name": "Pulse 24",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1049",
+    "Name": "Today 24 News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1050",
+    "Name": "News Flash",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1052",
+    "Name": "GBN 24",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1054",
+    "Name": "Express News Bharat",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1058",
+    "Name": "TV9 Bharatvarsh",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1059",
+    "Name": "SMBC TV",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1064",
+    "Name": "Times Now Navbharat",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1068",
+    "Name": "News 18 India",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1070",
+    "Name": "News 18 MP",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1071",
+    "Name": "News 18 UP",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1076",
+    "Name": "News18 Haryana and HP News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "171",
+    "Name": "News18 Uttar Pradesh-Uttarakhand",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "169",
+    "Name": "News18 Madhya Pradesh-Chhattisgarh",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "170",
+    "Name": "News18 Rajasthan",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "893",
+    "Name": "News18 Punjab-Haryana-Himachal Pradesh",
+    "Language": "Hindi, Punjabi",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "174",
+    "Name": "Republic Bharat",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "182",
+    "Name": "Zee Hindustan",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "181",
+    "Name": "Zee Bihar Jharkhand",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "183",
+    "Name": "Zee Madhya Pradesh Chhattisgarh",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "164",
+    "Name": "News State Madhya Pradesh Chhattisgarh",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "209",
+    "Name": "Zee ETC Bollywood",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "184",
+    "Name": "Zee News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "186",
+    "Name": "Zee Rajasthan News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "185",
+    "Name": "Zee News Uttar Pradesh Uttrakhand",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "180",
+    "Name": "VIP News",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "166",
+    "Name": "News State Uttar Pradesh Uttrakhand",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "144",
+    "Name": "Dish Positive",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "157",
+    "Name": "Live Today",
+    "Language": "Hindi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "195",
+    "Name": "Star Sports 1 Hindi",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "1032",
+    "Name": "Jio Football Hindi HD",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "193",
+    "Name": "DD Sports",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "404",
+    "Name": "MI TV",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1028",
+    "Name": "Jio Cricket Hindi HD",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1030",
+    "Name": "Jio Cricket 4 HD",
+    "Language": "HIndi",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "194",
+    "Name": "Sony TEN 3 HD",
+    "Language": "Hindi",
+    "Genre": "Sports",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "1053",
+    "Name": "VK News",
+    "Language": "Hindi",
+    "Genre": "",
+    "App": "JioTV"
+  },
+  {
+    "Number": "461",
+    "Name": "Gemini Comedy",
+    "Language": "Telugu",
+    "Genre": "Comedy",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "487",
+    "Name": "CVR OM Spiritual",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "486",
+    "Name": "Bhakti TV",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "485",
+    "Name": "Aradhana TV",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "490",
+    "Name": "Subhavaartha TV",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "489",
+    "Name": "Sri Venkateshwar Bhakti",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "488",
+    "Name": "Hindu Dharmam",
+    "Language": "Telugu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "457",
+    "Name": "Star Maa",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "450",
+    "Name": "DD Saptagiri",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "456",
+    "Name": "Maa Gold HD",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "414",
+    "Name": "ETV Telugu",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1081",
+    "Name": "Vissa TV",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "452",
+    "Name": "Gemini Movies",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "454",
+    "Name": "Gemini TV",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "451",
+    "Name": "Gemini Life",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "455",
+    "Name": "Gemini TV HD",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "403",
+    "Name": "Gemini Movies HD",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "458",
+    "Name": "Zee Telugu",
+    "Language": "Telugu",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "479",
+    "Name": "Vanitha",
+    "Language": "Telugu",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "484",
+    "Name": "Kushi TV",
+    "Language": "Telugu",
+    "Genre": "Kids",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "459",
+    "Name": "Maa Gold",
+    "Language": "Telugu",
+    "Genre": "Movies",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "460",
+    "Name": "Zee Cinemalu",
+    "Language": "Telugu",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "483",
+    "Name": "Raj Musix Telugu",
+    "Language": "Telugu",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "482",
+    "Name": "Gemini Music HD",
+    "Language": "Telugu",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "481",
+    "Name": "Gemini Music",
+    "Language": "Telugu",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "463",
+    "Name": "ABN Andhra Jyothi",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "464",
+    "Name": "CVR News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "468",
+    "Name": "i News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "477",
+    "Name": "TV9 Telugu News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "469",
+    "Name": "NTV",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "478",
+    "Name": "V6 News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "472",
+    "Name": "T News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "470",
+    "Name": "Raj News Telugu",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "473",
+    "Name": "TV 5 News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "462",
+    "Name": "10 TV",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "471",
+    "Name": "Sakshi tv",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "467",
+    "Name": "HM TV",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "466",
+    "Name": "ETV Telangana",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "475",
+    "Name": "TV5 News",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1001",
+    "Name": "ETV Andhra Pradesh",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "476",
+    "Name": "TV9 Telugu",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "465",
+    "Name": "DD Yadagiri",
+    "Language": "Telugu",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "610",
+    "Name": "Udaya Comedy",
+    "Language": "Kannada",
+    "Genre": "Comedy",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "625",
+    "Name": "Sri Sankara",
+    "Language": "Kannada",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "604",
+    "Name": "Star Suvarna",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "602",
+    "Name": "DD9 chandana (kannada)",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "603",
+    "Name": "Kasturi",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "601",
+    "Name": "Colors Kannada HD",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1084",
+    "Name": "Colors Super",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "607",
+    "Name": "Udaya TV HD",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "606",
+    "Name": "Udaya TV",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "605",
+    "Name": "Udaya Movies",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "608",
+    "Name": "Zee Kannada",
+    "Language": "Kannada",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "624",
+    "Name": "Chintu TV",
+    "Language": "Kannada",
+    "Genre": "Kids",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "453",
+    "Name": "Zee Picchar",
+    "Language": "Kannada",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "622",
+    "Name": "Public Music",
+    "Language": "Kannada",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1082",
+    "Name": "Raj Music Kannada",
+    "Language": "Kannada",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "623",
+    "Name": "Udaya Music",
+    "Language": "Kannada",
+    "Genre": "Music",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "616",
+    "Name": "Raj News Kannada",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "615",
+    "Name": "Public TV",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "620",
+    "Name": "TV9 Kannada",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "613",
+    "Name": "News First",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "612",
+    "Name": "Dighvijay News",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1041",
+    "Name": "Suvarna News",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1075",
+    "Name": "News18 Kannada News",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "611",
+    "Name": "DD Chandana",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "618",
+    "Name": "TV5 Kannada",
+    "Language": "Kannada",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "882",
+    "Name": "Channel Win",
+    "Language": "Urdu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1099",
+    "Name": "Mercy TV",
+    "Language": "Urdu",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1000",
+    "Name": "DD Kashir",
+    "Language": "Urdu",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "405",
+    "Name": "DD Urdu",
+    "Language": "Urdu",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1100",
+    "Name": "Tehzeeb TV",
+    "Language": "Urdu",
+    "Genre": "Infotainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "879",
+    "Name": "Gulistan News",
+    "Language": "Urdu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1078",
+    "Name": "News18 Urdu",
+    "Language": "Urdu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1098",
+    "Name": "4 TV",
+    "Language": "Urdu",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "881",
+    "Name": "Zee Salaam",
+    "Language": "Urdu",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "851",
+    "Name": "Rang",
+    "Language": "Assamese",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "852",
+    "Name": "Rengoni",
+    "Language": "Assamese",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "853",
+    "Name": "Indradhanu",
+    "Language": "Assamese",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "859",
+    "Name": "Ramdhenu",
+    "Language": "Assamese",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "857",
+    "Name": "North East Live",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "854",
+    "Name": "DY 365",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "856",
+    "Name": "Newslive",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "889",
+    "Name": "NK TV 24x7",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "990",
+    "Name": "ND 24",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "912",
+    "Name": "Prag News",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "410",
+    "Name": "Pratidin Time",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1011",
+    "Name": "News Time Assam",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "855",
+    "Name": "News18 Assam-North East",
+    "Language": "Assamese",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "754",
+    "Name": "Star Jalsha",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "751",
+    "Name": "Aakash Aath",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1083",
+    "Name": "Colors Bengali HD",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "753",
+    "Name": "Sony Aath",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "755",
+    "Name": "Sun Bangla",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "SunNXT"
+  },
+  {
+    "Number": "752",
+    "Name": "DD Bangla",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "756",
+    "Name": "Zee Bangla",
+    "Language": "Bengali",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "892",
+    "Name": "Rongeen TV",
+    "Language": "Bengali",
+    "Genre": "Kids",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1015",
+    "Name": "Amaar Cinema",
+    "Language": "Bengali",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "757",
+    "Name": "Zee Bangla Cinema",
+    "Language": "Bengali",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "765",
+    "Name": "Sangeet Bangla",
+    "Language": "Bengali",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "759",
+    "Name": "ABP Ananda",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "762",
+    "Name": "News Time TV",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "761",
+    "Name": "Ctvn Akd Plus",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "760",
+    "Name": "Calcutta News",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1047",
+    "Name": "Tribe TV",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "631",
+    "Name": "TV9 Bangla",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1080",
+    "Name": "News18 Bangla News",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "763",
+    "Name": "News18 Bangla News",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "758",
+    "Name": "24 Ghanta",
+    "Language": "Bengali",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1037",
+    "Name": "Jio Football Bengali HD",
+    "Language": "Bengali",
+    "Genre": "Sports",
+    "App": "JioTV"
+  },
+  {
+    "Number": "189",
+    "Name": "CNBC Bazaar (MNO)",
+    "Language": "Gujarati",
+    "Genre": "Business",
+    "App": "JioTV"
+  },
+  {
+    "Number": "814",
+    "Name": "Lakshya TV",
+    "Language": "Gujarati",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "813",
+    "Name": "Kartavya TV",
+    "Language": "Gujarati",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "996",
+    "Name": "Valam TV",
+    "Language": "Gujarati",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "900",
+    "Name": "Iskon Girgaon",
+    "Language": "Marathi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "901",
+    "Name": "Mahalaxmi Mumbai",
+    "Language": "Marathi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "902",
+    "Name": "Babulnaath Mumbai",
+    "Language": "Marathi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "903",
+    "Name": "Shri Hingulambika Devi Temple",
+    "Language": "Marathi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "904",
+    "Name": "Shri Mangal Dev Grah Temple",
+    "Language": "Marathi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "820",
+    "Name": "Vande Gujarat 6",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "817",
+    "Name": "Vande Gujarat 3",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "824",
+    "Name": "Vande Gujarat 10",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "826",
+    "Name": "Vande Gujarat 12",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "825",
+    "Name": "Vande Gujarat 11",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "827",
+    "Name": "Vande Gujarat 13",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "830",
+    "Name": "Vande Gujarat 16",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "816",
+    "Name": "Vande Gujarat 2",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "822",
+    "Name": "Vande Gujarat 8",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "823",
+    "Name": "Vande Gujarat 9",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "829",
+    "Name": "Vande Gujarat 15",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "828",
+    "Name": "Vande Gujarat 14",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "819",
+    "Name": "Vande Gujarat 5",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "821",
+    "Name": "Vande Gujarat 7",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "815",
+    "Name": "Vande Gujarat 1",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "818",
+    "Name": "Vande Gujarat 4",
+    "Language": "Gujarati",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1048",
+    "Name": "Padhega Bharat",
+    "Language": "Marathi",
+    "Genre": "Educational",
+    "App": "JioTV"
+  },
+  {
+    "Number": "655",
+    "Name": "Star Pravah",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "Hotstar"
+  },
+  {
+    "Number": "801",
+    "Name": "Colors Gujarati",
+    "Language": "Gujarati",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "802",
+    "Name": "DD Girnar",
+    "Language": "Gujarati",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "651",
+    "Name": "Colors Marathi HD",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "652",
+    "Name": "DD Sahayadri",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "654",
+    "Name": "Sony Marathi SD",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "SonyLIV"
+  },
+  {
+    "Number": "657",
+    "Name": "Zee Yuva",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "656",
+    "Name": "Zee Marathi HD",
+    "Language": "Marathi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "812",
+    "Name": "Shiksha TV",
+    "Language": "Gujarati",
+    "Genre": "Infotainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1097",
+    "Name": "Shri Trimbakeshwar Devasthan Trust",
+    "Language": "Marathi",
+    "Genre": "Jio Darshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "217",
+    "Name": "Tulja Bhavani",
+    "Language": "Marathi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "212",
+    "Name": "Ambabai Temple-Kolhapur",
+    "Language": "Marathi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "213",
+    "Name": "Dagdusheth Ganpati - Pune",
+    "Language": "Marathi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "214",
+    "Name": "Lord Shri Vitthal Rukmini",
+    "Language": "Marathi",
+    "Genre": "JioDarshan",
+    "App": "JioTV"
+  },
+  {
+    "Number": "664",
+    "Name": "Sugran TV",
+    "Language": "Marathi",
+    "Genre": "Lifestyle",
+    "App": "Zee5"
+  },
+  {
+    "Number": "658",
+    "Name": "Fakt Marathi",
+    "Language": "Marathi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "720",
+    "Name": "Shemaroo MarathiBana",
+    "Language": "Marathi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "659",
+    "Name": "Zee Talkies",
+    "Language": "Marathi",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "665",
+    "Name": "9x Jhakaas",
+    "Language": "Marathi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "666",
+    "Name": "Sangeet Marathi",
+    "Language": "Marathi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "808",
+    "Name": "Tv 9 Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "803",
+    "Name": "ABP Asmita",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "810",
+    "Name": "VTV Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "807",
+    "Name": "Sandesh News",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "804",
+    "Name": "GS TV",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "413",
+    "Name": "BBC News Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1021",
+    "Name": "Kenson News",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1055",
+    "Name": "Aaj Ki Baat Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "809",
+    "Name": "TV9 Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1074",
+    "Name": "News 18 Gujarati",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "660",
+    "Name": "ABP Majha",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "653",
+    "Name": "Saam Tv",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "661",
+    "Name": "TV9 Maharashtra",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "650",
+    "Name": "Lokshahi News",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "411",
+    "Name": "News18 Lokmat",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1010",
+    "Name": "BBC Marathi",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "662",
+    "Name": "TV9 Marathi",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "805",
+    "Name": "India News Gujarat",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "811",
+    "Name": "Zee 24 Kalak",
+    "Language": "Gujarati",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "663",
+    "Name": "Zee 24 Taas",
+    "Language": "Marathi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "718",
+    "Name": "PTC Simran",
+    "Language": "Punjabi",
+    "Genre": "Devotional",
+    "App": "JioTV"
+  },
+  {
+    "Number": "702",
+    "Name": "DD Punjabi",
+    "Language": "Punjabi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "703",
+    "Name": "PTC Punjabi",
+    "Language": "Punjabi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1020",
+    "Name": "Punjab Plus",
+    "Language": "Punjabi",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "704",
+    "Name": "Zee Punjabi",
+    "Language": "Punjabi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "701",
+    "Name": "Alpha ETC Punjabi",
+    "Language": "Punjabi",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "705",
+    "Name": "PTC Punjabi Gold",
+    "Language": "Punjabi",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "711",
+    "Name": "9X Tashan",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "713",
+    "Name": "PTC Chak De",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "714",
+    "Name": "PTC DHOL TV",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "715",
+    "Name": "PTC Music",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1022",
+    "Name": "7X Music",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "JioTV"
+  },
+  {
+    "Number": "712",
+    "Name": "Local Vocal | United We Stand",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "717",
+    "Name": "Sounds of ZEE5 - Romance",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "716",
+    "Name": "Sounds of ZEE5 - Punjabi Beats",
+    "Language": "Punjabi",
+    "Genre": "Music",
+    "App": "Zee5"
+  },
+  {
+    "Number": "706",
+    "Name": "Chardikla Time TV",
+    "Language": "Punjabi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "709",
+    "Name": "PTC News",
+    "Language": "Punjabi",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "710",
+    "Name": "Zee Punjab Haryana Himachal Pradesh",
+    "Language": "Punjabi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "708",
+    "Name": "Living India",
+    "Language": "Punjabi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "707",
+    "Name": "India News Punjabi Himachal",
+    "Language": "Punjabi",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "873",
+    "Name": "Dishum TV",
+    "Language": "Bhojpuri",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "872",
+    "Name": "Dangal",
+    "Language": "Bhojpuri",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "874",
+    "Name": "Surya Bhojpuri",
+    "Language": "Bhojpuri",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1091",
+    "Name": "MH1 Dil Se",
+    "Language": "Bhojpuri",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "871",
+    "Name": "Big Ganga",
+    "Language": "Bhojpuri",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "875",
+    "Name": "Bhojpuri Cinema",
+    "Language": "Bhojpuri",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "876",
+    "Name": "Oscar Movies",
+    "Language": "Bhojpuri",
+    "Genre": "Movies",
+    "App": "JioTV"
+  },
+  {
+    "Number": "878",
+    "Name": "Zee Biskope",
+    "Language": "Bhojpuri",
+    "Genre": "Movies",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1077",
+    "Name": "News18 BIHAR",
+    "Language": "Bhojpuri",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "168",
+    "Name": "News18 Bihar-Jharkhand",
+    "Language": "Bhojpuri",
+    "Genre": "News",
+    "App": "Network18"
+  },
+  {
+    "Number": "886",
+    "Name": "Nepal one",
+    "Language": "Nepali",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "861",
+    "Name": "DD Oriya",
+    "Language": "Odia",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "888",
+    "Name": "Manjari TV",
+    "Language": "Odia",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1067",
+    "Name": "Colors Oriya",
+    "Language": "Odia",
+    "Genre": "Entertainment",
+    "App": "JioTV"
+  },
+  {
+    "Number": "860",
+    "Name": "DD Odia",
+    "Language": "Odia",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "863",
+    "Name": "Zee Sarthak",
+    "Language": "Odia",
+    "Genre": "Entertainment",
+    "App": "Zee5"
+  },
+  {
+    "Number": "866",
+    "Name": "MBC",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "865",
+    "Name": "Kanak News",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "864",
+    "Name": "Kalinga TV",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "869",
+    "Name": "Prameya News 7",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "867",
+    "Name": "Naxatra News",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1692",
+    "Name": "Badakhabar",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "1096",
+    "Name": "Nandighosha",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "JioTV"
+  },
+  {
+    "Number": "870",
+    "Name": "Zee Odisha",
+    "Language": "Odia",
+    "Genre": "News",
+    "App": "Zee5"
+  },
+  {
+    "Number": "1079",
+    "Name": "News18 Oriya",
+    "Language": "Odia",
+    "Genre": "",
+    "App": "JioTV"
+  },
+  {
+    "Number": "885",
+    "Name": "TV5 Monde",
+    "Language": "French",
+    "Genre": "News",
+    "App": "JioTV"
+  }
+]
