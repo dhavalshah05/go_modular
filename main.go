@@ -1,13 +1,55 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"learning/utils/android"
+	"learning/utils/input"
+	"learning/utils/shell"
+)
+
+const projectUrl = "http://192.168.29.5:3000/dhaval/android_starter_multi_module.git"
 
 func main() {
-	var result = 0
-	add(1, 3, &result)
-	fmt.Println("Result is ", result)
-}
+	fmt.Print("Enter project name: ")
+	projectName := input.GetStringFromUser()
 
-func add(num1 int, num2 int, result *int) {
-	*result = num1 + num2
+	directoryName := android.GenerateDirectoryName(projectName)
+	applicationId := android.GenerateApplicationId(projectName)
+
+	err := shell.CloneRepository(projectUrl, directoryName)
+	if err != nil {
+		panic(err)
+	}
+
+	err = shell.ChangeDir(directoryName)
+	if err != nil {
+		panic(err)
+	}
+
+	err = android.ChangeApplicationName(projectName)
+	if err != nil {
+		panic(err)
+	}
+
+	err = android.ChangeGradleRootProjectName(directoryName)
+	if err != nil {
+		panic(err)
+	}
+
+	err = android.ChangeApplicationId(applicationId)
+	if err != nil {
+		panic(err)
+	}
+
+	err = android.RemoveGit()
+	if err != nil {
+		panic(err)
+	}
+
+	err = android.InitGit()
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Println("Application created")
 }
