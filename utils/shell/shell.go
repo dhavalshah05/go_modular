@@ -28,3 +28,7 @@ func CloneRepository(url string, dirName string) error {
 func ChangeDir(dirName string) error {
 	return os.Chdir(dirName)
 }
+
+func CurrentDir() (string, error) {
+	return os.Getwd()
+}

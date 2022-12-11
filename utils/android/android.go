@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"learning/utils/io"
 	"learning/utils/shell"
+	"os"
 	"strings"
 )
 
@@ -73,5 +74,38 @@ func InitGit() error {
 	if err != nil {
 		return err
 	}
+	return nil
+}
+
+func CreateAndroidProject(directoryName string, projectBytes []byte) error {
+	err := os.Mkdir(directoryName, os.ModePerm)
+	if err != nil {
+		return err
+	}
+
+	// Navigate to project folder
+	err = shell.ChangeDir(directoryName)
+	if err != nil {
+		return err
+	}
+
+	// Create zip file
+	err = os.WriteFile("project.zip", projectBytes, os.ModePerm)
+	if err != nil {
+		return err
+	}
+
+	// Navigate back to cwd
+	err = shell.ChangeDir("..")
+	if err != nil {
+		return err
+	}
+
+	io.UnzipFile(fmt.Sprintf("%s/project.zip", directoryName), directoryName)
+	err = os.RemoveAll(fmt.Sprintf("%s/project.zip", directoryName))
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
