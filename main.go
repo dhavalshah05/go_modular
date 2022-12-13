@@ -6,11 +6,15 @@ import (
 )
 
 func main() {
-	printTimeUsingFormat()
+	dateString := "2022-03-05"
+	parse, err := time.Parse("2006-01-02", dateString)
+	if err != nil {
+		panic(err)
+	}
+	printTimeUsingFormat(parse)
 }
 
-func printTimeUsingFormat() {
-	datetime := time.Now()
+func printTimeUsingFormat(datetime time.Time) {
 	fmt.Println("Year :", datetime.Format("2006/06"))
 	fmt.Println("Month :", datetime.Format("01/Jan/January"))
 	fmt.Println("Day of month :", datetime.Format("02/Mon/Monday"))
