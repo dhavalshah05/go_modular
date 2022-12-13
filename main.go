@@ -3,10 +3,14 @@ package main
 import (
 	"fmt"
 	"github.com/xuri/excelize/v2"
+	"learning/utils/boarding"
 	"learning/utils/sheet"
 )
 
 func main() {
+	err, year, month := boarding.GetYearAndMonthFromUser()
+	handleError(err)
+
 	file, err := excelize.OpenFile("BalanceSheet.xlsx")
 	defer func() {
 		// Close the spreadsheet.
@@ -17,18 +21,17 @@ func main() {
 	handleError(err)
 
 	categories := sheet.GetAllCategories(file)
-	transactions := sheet.GetAllTransactions(file)
+	transactions := sheet.GetAllTransactions(file, year, month)
 
-	transactions = filterByCategory(categories[1], transactions)
-	printTransactions(transactions)
+	if len(transactions) <= 0 {
+		fmt.Printf("Cannot find transactions for Month: %d and Year: %d\n", month, year)
+		return
+	}
 
-	total := findTotalExpenseByCategory(categories[1], transactions)
-	fmt.Printf("Total: %d\n", total)
-
-	/*for _, category := range categories {
+	for _, category := range categories {
 		total := findTotalExpenseByCategory(category, transactions)
 		fmt.Printf("%s : %d\n", category.Name, total)
-	}*/
+	}
 }
 
 func filterByCategory(category sheet.Category, transactions []sheet.Transaction) []sheet.Transaction {

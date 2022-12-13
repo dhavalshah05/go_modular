@@ -3,6 +3,7 @@ package sheet
 import (
 	"github.com/xuri/excelize/v2"
 	"strconv"
+	"time"
 )
 
 type Transaction struct {
@@ -38,7 +39,7 @@ func GetAllCategories(file *excelize.File) []Category {
 	return categories
 }
 
-func GetAllTransactions(file *excelize.File) []Transaction {
+func GetAllTransactions(file *excelize.File, year int, month int) []Transaction {
 	rows, err := file.GetRows("Transactions")
 	handleError(err)
 
@@ -49,6 +50,14 @@ func GetAllTransactions(file *excelize.File) []Transaction {
 			continue
 		}
 		date := getItemAtIndex(cols, 0)
+		parsedDate, err := time.Parse("2-Jan-2006", date)
+		if err != nil {
+			panic(err)
+		}
+
+		if parsedDate.Year() != year && parsedDate.Month() != time.Month(month) {
+			continue
+		}
 
 		creditStr := getItemAtIndex(cols, 1)
 		credit, err := strconv.Atoi(creditStr)
