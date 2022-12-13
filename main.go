@@ -6,12 +6,11 @@ import (
 )
 
 func main() {
-	dateString := "2022-03-05"
-	parse, err := time.Parse("2006-01-02", dateString)
-	if err != nil {
-		panic(err)
-	}
-	printTimeUsingFormat(parse)
+	now := time.Now()
+	nowUtc := time.Now().UTC()
+
+	printTimeManually(now)
+	printTimeManually(nowUtc)
 }
 
 func printTimeUsingFormat(datetime time.Time) {
