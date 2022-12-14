@@ -7,7 +7,7 @@ import (
 )
 
 type Transaction struct {
-	Date     string
+	Date     time.Time
 	Credit   int
 	Debit    int
 	Category string
@@ -75,7 +75,7 @@ func GetAllTransactions(file *excelize.File, year int, month int) []Transaction 
 		summary := getItemAtIndex(cols, 4)
 
 		transactions = append(transactions, Transaction{
-			Date:     date,
+			Date:     parsedDate,
 			Credit:   credit,
 			Debit:    debit,
 			Category: category,
@@ -83,6 +83,47 @@ func GetAllTransactions(file *excelize.File, year int, month int) []Transaction 
 		})
 	}
 	return transactions
+}
+
+func GetTotalExpense(transactions []Transaction) int {
+	var total = 0
+	for _, transaction := range transactions {
+		total = total + transaction.Debit
+	}
+	return total
+}
+
+func GetTotalIncome(transactions []Transaction) int {
+	var total = 0
+	for _, transaction := range transactions {
+		total = total + transaction.Credit
+	}
+	return total
+}
+
+func FilterByCategory(category Category, transactions []Transaction) []Transaction {
+	var result []Transaction
+	for _, transaction := range transactions {
+		if transaction.Category == category.Name {
+			result = append(result, transaction)
+		}
+	}
+	return result
+}
+
+func FindTotalExpenseInRsByCategory(category Category, transactions []Transaction) int {
+	filteredTransactions := FilterByCategory(category, transactions)
+
+	var result = 0
+	for _, transaction := range filteredTransactions {
+		result = result + transaction.Debit
+	}
+	return result
+}
+
+func FindTotalExpenseInPercentageByCategory(category Category, transactions []Transaction, totalExpense int) float64 {
+	var result = FindTotalExpenseInRsByCategory(category, transactions)
+	return (float64(result) * 100.0) / float64(totalExpense)
 }
 
 func getItemAtIndex(row []string, index int) string {
