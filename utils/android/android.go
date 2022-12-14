@@ -109,3 +109,8 @@ func CreateAndroidProject(directoryName string, projectBytes []byte) error {
 
 	return nil
 }
+
+func MakeGradleExecutable() error {
+	_, _, err := shell.ExecuteShellCommand("chmod +x gradlew")
+	return err
+}

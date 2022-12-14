@@ -38,6 +38,9 @@ func main() {
 	err = android.InitGit()
 	handleError(err)
 
+	err = android.MakeGradleExecutable()
+	handleError(err)
+
 	fmt.Println("Application created")
 }
 
