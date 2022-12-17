@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"strings"
+	"sync"
 )
 
 type Channel struct {
@@ -21,10 +22,13 @@ func (c Channel) PrintDetails() {
 	fmt.Println(c)
 }
 
-func getChannelFromHandle(entry playwright.ElementHandle) (*Channel, error) {
+func getChannelFromHandle(entry playwright.ElementHandle, channels *[]Channel, wg *sync.WaitGroup, mutex *sync.Mutex) {
+	defer wg.Done()
+
 	pHandles, err := entry.QuerySelectorAll("p")
 	if err != nil {
-		return nil, err
+		fmt.Println("Error while extracting channel")
+		return
 	}
 
 	var channel = &Channel{}
@@ -46,9 +50,10 @@ func getChannelFromHandle(entry playwright.ElementHandle) (*Channel, error) {
 		}
 	}
 	if channel.Number != "" && channel.Name != "Channel Name" {
-		return channel, nil
+		mutex.Lock()
+		*channels = append(*channels, *channel)
+		mutex.Unlock()
 	}
-	return nil, nil
 }
 
 func main() {
@@ -57,7 +62,7 @@ func main() {
 		log.Fatalf("could not start playwright: %v", err)
 	}
 
-	var headless = false
+	var headless = true
 	browser, err := pw.Chromium.Launch(playwright.BrowserTypeLaunchOptions{
 		Headless: &headless,
 		Args:     []string{"--start-maximized"},
@@ -80,18 +85,16 @@ func main() {
 		panic(err)
 	}
 
+	wg := &sync.WaitGroup{}
+	mutex := &sync.Mutex{}
 	var channels []Channel
 
 	for _, entry := range entries {
-		channel, err := getChannelFromHandle(entry)
-		if err != nil {
-			panic(err)
-		}
-		if channel != nil {
-			channels = append(channels, *channel)
-		}
+		wg.Add(1)
+		go getChannelFromHandle(entry, &channels, wg, mutex)
 	}
 
+	wg.Wait()
 	err = saveChannels(channels)
 	if err != nil {
 		panic(err)
@@ -110,7 +113,7 @@ func saveChannels(channels []Channel) error {
 	if err != nil {
 		return err
 	}
-	err = os.WriteFile("channels.json", jsonBytes, 0777)
+	err = os.WriteFile("output/channels.json", jsonBytes, 0777)
 	if err != nil {
 		return err
 	}
