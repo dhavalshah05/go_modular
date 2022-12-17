@@ -1,13 +1,32 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sync"
+	"time"
+)
 
 func main() {
-	var result = 0
-	add(1, 3, &result)
-	fmt.Println("Result is ", result)
+	filesToProcess := []string{"file1", "file2", "file3", "file4", "file5"}
+	processedFiles := &[]string{}
+	wg := &sync.WaitGroup{}
+	mutex := &sync.Mutex{}
+
+	for _, file := range filesToProcess {
+		wg.Add(1)
+		go processFile(file, processedFiles, wg, mutex)
+	}
+
+	wg.Wait()
+	fmt.Println(*processedFiles)
 }
 
-func add(num1 int, num2 int, result *int) {
-	*result = num1 + num2
+func processFile(file string, processedFiles *[]string, wg *sync.WaitGroup, mutex *sync.Mutex) {
+	time.Sleep(3 * time.Second)
+	result := file + "processed"
+	fmt.Println(result)
+	mutex.Lock()
+	*processedFiles = append(*processedFiles, result)
+	mutex.Unlock()
+	wg.Done()
 }
