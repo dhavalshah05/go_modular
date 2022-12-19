@@ -1,32 +1,88 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
-	"sync"
-	"time"
+	"io"
+	"net/http"
 )
 
-func main() {
-	filesToProcess := []string{"file1", "file2", "file3", "file4", "file5"}
-	processedFiles := &[]string{}
-	wg := &sync.WaitGroup{}
-	mutex := &sync.Mutex{}
+const POSTS_URL = "https://jsonplaceholder.typicode.com/posts"
 
-	for _, file := range filesToProcess {
-		wg.Add(1)
-		go processFile(file, processedFiles, wg, mutex)
-	}
-
-	wg.Wait()
-	fmt.Println(*processedFiles)
+func getCommentsUrl(postId int) string {
+	return fmt.Sprintf("https://jsonplaceholder.typicode.com/posts/%d/comments", postId)
 }
 
-func processFile(file string, processedFiles *[]string, wg *sync.WaitGroup, mutex *sync.Mutex) {
-	time.Sleep(3 * time.Second)
-	result := file + "processed"
-	fmt.Println(result)
-	mutex.Lock()
-	*processedFiles = append(*processedFiles, result)
-	mutex.Unlock()
-	wg.Done()
+type Post struct {
+	UserId int    `json:"userId"`
+	Id     int    `json:"id"`
+	Title  string `json:"title"`
+	Body   string `json:"body"`
+}
+
+type Comment struct {
+	PostId int    `json:"postId"`
+	Id     int    `json:"id"`
+	Name   string `json:"name"`
+	Email  string `json:"email"`
+	Body   string `json:"body"`
+}
+
+func main() {
+	posts, err := getPosts()
+	if err != nil {
+		panic(err)
+	}
+	fmt.Printf("Total %d posts are received\n", len(posts))
+
+	totalComments := 0
+	for _, post := range posts {
+		comments, err := getComments(post.Id)
+		if err != nil {
+			fmt.Printf("Error while getting comments for post %d\n", post.Id)
+		} else {
+			totalComments = totalComments + len(comments)
+			fmt.Printf("Total %d comments are received for post %d\n", len(comments), post.Id)
+		}
+	}
+
+	fmt.Printf("Total %d comments are received\n", totalComments)
+}
+
+func getPosts() ([]Post, error) {
+	response, err := http.Get(POSTS_URL)
+	if err != nil {
+		return nil, err
+	}
+
+	responseData, err := io.ReadAll(response.Body)
+	if err != nil {
+		return nil, err
+	}
+	var posts []Post
+	err = json.Unmarshal(responseData, &posts)
+	if err != nil {
+		return nil, err
+	}
+
+	return posts, nil
+}
+
+func getComments(postId int) ([]Comment, error) {
+	response, err := http.Get(getCommentsUrl(postId))
+	if err != nil {
+		return nil, err
+	}
+
+	responseData, err := io.ReadAll(response.Body)
+	if err != nil {
+		return nil, err
+	}
+	var comments []Comment
+	err = json.Unmarshal(responseData, &comments)
+	if err != nil {
+		return nil, err
+	}
+
+	return comments, nil
 }
