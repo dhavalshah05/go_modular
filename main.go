@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"sync"
 )
 
 const POSTS_URL = "https://jsonplaceholder.typicode.com/posts"
@@ -35,17 +36,15 @@ func main() {
 	}
 	fmt.Printf("Total %d posts are received\n", len(posts))
 
+	wg := &sync.WaitGroup{}
+	mutex := &sync.Mutex{}
 	totalComments := 0
 	for _, post := range posts {
-		comments, err := getComments(post.Id)
-		if err != nil {
-			fmt.Printf("Error while getting comments for post %d\n", post.Id)
-		} else {
-			totalComments = totalComments + len(comments)
-			fmt.Printf("Total %d comments are received for post %d\n", len(comments), post.Id)
-		}
+		wg.Add(1)
+		go getComments(post.Id, &totalComments, wg, mutex)
 	}
 
+	wg.Wait()
 	fmt.Printf("Total %d comments are received\n", totalComments)
 }
 
@@ -68,21 +67,28 @@ func getPosts() ([]Post, error) {
 	return posts, nil
 }
 
-func getComments(postId int) ([]Comment, error) {
+func getComments(postId int, totalComments *int, wg *sync.WaitGroup, mutex *sync.Mutex) {
+	defer wg.Done()
 	response, err := http.Get(getCommentsUrl(postId))
 	if err != nil {
-		return nil, err
+		fmt.Printf("Error while getting comments for post %d\n", postId)
+		return
 	}
 
 	responseData, err := io.ReadAll(response.Body)
 	if err != nil {
-		return nil, err
+		fmt.Printf("Error while getting comments for post %d\n", postId)
+		return
 	}
 	var comments []Comment
 	err = json.Unmarshal(responseData, &comments)
 	if err != nil {
-		return nil, err
+		fmt.Printf("Error while getting comments for post %d\n", postId)
+		return
 	}
 
-	return comments, nil
+	mutex.Lock()
+	*totalComments = *totalComments + len(comments)
+	mutex.Unlock()
+	fmt.Printf("Total %d comments are received for post %d\n", len(comments), postId)
 }
