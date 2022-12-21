@@ -8,30 +8,26 @@ import (
 	"time"
 )
 
-func GetTransactions(context *gin.Context) {
-	var response models.ApiResponse
-	transactions := data.GetTransactions()
-
-	if len(transactions) <= 0 {
-		response = models.ApiResponse{
-			Message: "Transactions not found",
-			Data:    transactions,
-		}
-	} else {
-		response = models.ApiResponse{
-			Message: "Transactions found",
-			Data:    transactions,
-		}
-	}
-
-	context.JSON(http.StatusOK, response)
-}
-
 func AddTransaction(context *gin.Context) {
 	var addTransactionRequest models.AddTransactionRequest
 
 	if err := context.BindJSON(&addTransactionRequest); err != nil {
-		context.String(http.StatusInternalServerError, "Error parsing request")
+		context.JSON(http.StatusInternalServerError, models.ErrorApiResponse("Error parsing request"))
+		return
+	}
+
+	if addTransactionRequest.Credit <= 0 && addTransactionRequest.Debit <= 0 {
+		context.JSON(http.StatusBadRequest, models.ErrorApiResponse("credit or debit value is required"))
+		return
+	}
+
+	if addTransactionRequest.Category == "" {
+		context.JSON(http.StatusBadRequest, models.ErrorApiResponse("category is required"))
+		return
+	}
+
+	if addTransactionRequest.Summary == "" {
+		context.JSON(http.StatusBadRequest, models.ErrorApiResponse("summary is required"))
 		return
 	}
 
