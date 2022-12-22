@@ -1,4 +1,4 @@
-package utils
+package fireutil
 
 import (
 	"cloud.google.com/go/firestore"

@@ -4,7 +4,7 @@ import (
 	"cloud.google.com/go/firestore"
 	"github.com/gin-gonic/gin"
 	"learning/routes"
-	"learning/utils"
+	"learning/utils/fireutil"
 )
 
 func main() {
@@ -13,7 +13,7 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
-	}(utils.FirebaseClient)
+	}(fireutil.FirebaseClient)
 
 	router := gin.Default()
 
