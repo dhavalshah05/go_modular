@@ -8,8 +8,12 @@ import (
 	"learning/utils"
 )
 
-func GetTransactions() []models.Transaction {
-	documents := utils.FirebaseClient.Collection("transactions").Documents(context.Background())
+func GetTransactions(filter models.TransactionFilter) []models.Transaction {
+	query := utils.FirebaseClient.Collection("transactions").Query
+	if filter.Category != "" {
+		query = query.Where("Category", "==", filter.Category)
+	}
+	documents := query.Documents(context.Background())
 	var transactions []models.Transaction
 	for {
 		next, err := documents.Next()

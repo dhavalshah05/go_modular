@@ -9,7 +9,12 @@ import (
 
 func GetTransactions(context *gin.Context) {
 	var response models.ApiResponse
-	transactions := data.GetTransactions()
+	filterCategory := context.Query("category")
+
+	transactionFilter := models.TransactionFilter{
+		Category: filterCategory,
+	}
+	transactions := data.GetTransactions(transactionFilter)
 
 	if len(transactions) <= 0 {
 		response = models.ApiResponse{

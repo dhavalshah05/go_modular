@@ -14,3 +14,7 @@ type Transaction struct {
 	Category string `json:"category"`
 	Summary  string `json:"summary"`
 }
+
+type TransactionFilter struct {
+	Category string
+}
