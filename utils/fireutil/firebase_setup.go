@@ -7,8 +7,10 @@ import (
 	"google.golang.org/api/option"
 )
 
-func initFirebaseApp() *firestore.Client {
-	opt := option.WithCredentialsFile("firebase_admin.json")
+var FirebaseClient *firestore.Client
+
+func InitFirebaseApp(configBytes []byte) *firestore.Client {
+	opt := option.WithCredentialsJSON(configBytes)
 	ctx := context.Background()
 	app, err := firebase.NewApp(ctx, nil, opt)
 	if err != nil {
@@ -20,5 +22,3 @@ func initFirebaseApp() *firestore.Client {
 	}
 	return client
 }
-
-var FirebaseClient = initFirebaseApp()
