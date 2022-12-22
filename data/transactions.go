@@ -8,6 +8,24 @@ import (
 	"learning/utils"
 )
 
+func DeleteTransactionById(id string) error {
+	_, err := utils.FirebaseClient.Collection("transactions").Doc(id).Delete(context.Background())
+	return err
+}
+
+func GetTransactionById(id string) *models.Transaction {
+	var transaction models.Transaction
+	snapshot, err := utils.FirebaseClient.Collection("transactions").Doc(id).Get(context.Background())
+	if err != nil {
+		return nil
+	}
+	err = snapshot.DataTo(&transaction)
+	if err != nil {
+		return nil
+	}
+	return &transaction
+}
+
 func GetTransactions(filter models.TransactionFilter) []models.Transaction {
 	query := utils.FirebaseClient.Collection("transactions").Query
 	if filter.Category != "" {

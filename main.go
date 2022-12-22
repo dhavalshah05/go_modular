@@ -20,6 +20,7 @@ func main() {
 	router.GET("/", routes.HomeRoute)
 	router.GET("/transactions", routes.GetTransactions)
 	router.POST("/transactions", routes.AddTransaction)
+	router.DELETE("/transactions/:id", routes.DeleteTransaction)
 
 	err := router.Run(":3000")
 	if err != nil {
