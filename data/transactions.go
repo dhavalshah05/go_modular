@@ -1,18 +1,36 @@
 package data
 
 import (
+	"context"
+	"fmt"
+	"google.golang.org/api/iterator"
 	"learning/models"
+	"learning/utils"
 )
 
-var storedTransactions = []models.Transaction{
-	{Id: 1, Credit: 2000, Debit: 0, Category: "Salary", Summary: "SamCom"},
-	{Id: 2, Credit: 0, Debit: 350, Category: "Food", Summary: "Dinner"},
-}
-
 func GetTransactions() []models.Transaction {
-	return storedTransactions
+	documents := utils.FirebaseClient.Collection("transactions").Documents(context.Background())
+	var transactions []models.Transaction
+	for {
+		next, err := documents.Next()
+		if err == iterator.Done {
+			break
+		}
+		if err != nil {
+			fmt.Println(err)
+		}
+		var result models.Transaction
+		err = next.DataTo(&result)
+		if err == nil {
+			transactions = append(transactions, result)
+		}
+	}
+	return transactions
 }
 
-func AddTransaction(transaction models.Transaction) {
-	storedTransactions = append(storedTransactions, transaction)
+func AddTransaction(transaction *models.Transaction) error {
+	ref := utils.FirebaseClient.Collection("transactions").NewDoc()
+	transaction.Id = ref.ID
+	_, err := utils.FirebaseClient.Collection("transactions").Doc(ref.ID).Set(context.Background(), transaction)
+	return err
 }

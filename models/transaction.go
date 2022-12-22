@@ -8,7 +8,7 @@ type AddTransactionRequest struct {
 }
 
 type Transaction struct {
-	Id       int    `json:"id"`
+	Id       string `json:"id"`
 	Credit   int    `json:"credit"`
 	Debit    int    `json:"debit"`
 	Category string `json:"category"`

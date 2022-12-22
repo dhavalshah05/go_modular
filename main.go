@@ -1,11 +1,20 @@
 package main
 
 import (
+	"cloud.google.com/go/firestore"
 	"github.com/gin-gonic/gin"
 	"learning/routes"
+	"learning/utils"
 )
 
 func main() {
+	defer func(FirebaseClient *firestore.Client) {
+		err := FirebaseClient.Close()
+		if err != nil {
+			panic(err)
+		}
+	}(utils.FirebaseClient)
+
 	router := gin.Default()
 
 	router.GET("/", routes.HomeRoute)

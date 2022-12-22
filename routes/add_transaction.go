@@ -5,7 +5,6 @@ import (
 	"learning/data"
 	"learning/models"
 	"net/http"
-	"time"
 )
 
 func AddTransaction(context *gin.Context) {
@@ -32,13 +31,18 @@ func AddTransaction(context *gin.Context) {
 	}
 
 	transaction := models.Transaction{
-		Id:       int(time.Now().Unix()),
+		Id:       "",
 		Credit:   addTransactionRequest.Credit,
 		Debit:    addTransactionRequest.Debit,
 		Category: addTransactionRequest.Category,
 		Summary:  addTransactionRequest.Summary,
 	}
-	data.AddTransaction(transaction)
+
+	err := data.AddTransaction(&transaction)
+	if err != nil {
+		context.JSON(http.StatusInternalServerError, models.ErrorApiResponse("Unable to save transaction to firebase"))
+		return
+	}
 
 	response := models.ApiResponse{
 		Message: "Transaction added",
